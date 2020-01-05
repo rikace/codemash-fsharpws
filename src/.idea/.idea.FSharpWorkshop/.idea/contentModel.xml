@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FSharpWorkshop.sln" t="IncludeFlat" />
+      <e p="Module1" t="Include">
+        <e p="Application" t="IncludeRecursive">
+          <e p="Application.fsproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Functions.fs" t="Include" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Try.fsx" t="Include" />
+          <e p="Types.fs" t="Include" />
+        </e>
+        <e p="Demo.fsx" t="Include" />
+        <e p="Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Tests.fs" t="Include" />
+          <e p="Tests.fsproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Module2" t="Include">
+        <e p="Application" t="IncludeRecursive">
+          <e p="Application.fsproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Functions.fs" t="Include" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Try.fsx" t="Include" />
+          <e p="Types.fs" t="Include" />
+        </e>
+        <e p="Demo.fsx" t="Include" />
+        <e p="Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Tests.fs" t="Include" />
+          <e p="Tests.fsproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Module3" t="Include">
+        <e p="Application" t="IncludeRecursive">
+          <e p="Application.fsproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Functions.fs" t="Include" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Try.fsx" t="Include" />
+          <e p="Types.fs" t="Include" />
+        </e>
+        <e p="Demo.fsx" t="Include" />
+        <e p="Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Tests.fs" t="Include" />
+          <e p="Tests.fsproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Module4" t="Include">
+        <e p="Application" t="IncludeRecursive">
+          <e p="Application.fsproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Data" t="Include">
+            <e p="Customer.txt" t="Include" />
+          </e>
+          <e p="Data.json" t="Include" />
+          <e p="Functions.fs" t="Include" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Program.fs" t="Include" />
+          <e p="Services.fs" t="Include" />
+          <e p="Try.fsx" t="Include" />
+          <e p="Types.fs" t="Include" />
+        </e>
+        <e p="ScriptDSL.fsx" t="Include" />
+        <e p="Tests" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Tests.fs" t="Include" />
+          <e p="Tests.fsproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Module5" t="Include">
+        <e p="ParallelWebCrawler" t="IncludeRecursive">
+          <e p="Async.fs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="ParallelWebCrawler.fs" t="Include" />
+          <e p="ParallelWebCrawler.fsproj" t="IncludeRecursive" />
+          <e p="Program.fs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_FSharpWorkshop.1445455368.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>
