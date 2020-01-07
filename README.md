@@ -79,10 +79,10 @@ with these extensions:
 
 - Ionide-fsharp extension
 
-#####Rider (Jetbrains)
+##### Rider (Jetbrains)
 - https://www.jetbrains.com/rider/
 
-#####Visual Studio 19
+##### Visual Studio 19
 - https://visualstudio.microsoft.com/vs/community/
 
 

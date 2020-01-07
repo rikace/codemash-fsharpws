@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="AsyncDemo.fs" />
+        <Compile Include="AgentDemo.fs" />
+        <Compile Include="Async.fs" />
+        <Compile Include="ParallelWebCrawler_Module.fs" />
+        <Compile Include="ParallelWebCrawler.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="HtmlAgilityPack" Version="1.11.17" />
+    </ItemGroup>
+
+</Project>
